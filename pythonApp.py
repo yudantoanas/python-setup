@@ -3,3 +3,4 @@
 # fungsi kurang
 # fungsi kali
 # dsb..
+print("hello")
