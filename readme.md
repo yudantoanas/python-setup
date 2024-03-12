@@ -4,5 +4,5 @@ isi readme selama di hacktiv:
 - clue
 - dsb.. (informasi tambahan yang dibutuhkan)
 
-tata cara nulis text di cell markdown
+tata cara nulis text di file .md
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
